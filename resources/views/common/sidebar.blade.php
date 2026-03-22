@@ -5,7 +5,7 @@
             {{-- <i class="fas fa-university"></i> --}}
             <img src="{{ asset('images/icon.png') }}" alt="Logo" width="50px">
         </div>
-        <div class="sidebar-brand-text mx-3">ITPIAI</div>
+        <div class="sidebar-brand-text mx-3">UDABOL</div>
     </a>
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
