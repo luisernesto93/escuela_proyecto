@@ -10,10 +10,10 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }} | @yield('t itle')</title>
+    <title>{{ config('app.name', 'Ariel') }} | @yield('t itle')</title>
 
     {{-- ICON --}}
-    <link rel="shortcut icon" type="image/jpg" href="{{ asset('images/icon.png') }}"/>
+    <link rel="shortcut icon" type="image/jpg" href="{{ asset('images/icon2.png') }}"/>
 
     <!-- Font Awesome UI KIT-->
     <script src="https://kit.fontawesome.com/f75ab26951.js" crossorigin="anonymous"></script>

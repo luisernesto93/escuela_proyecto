@@ -6,10 +6,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{{config('app.name', 'Laravel')}} | @yield('title')</title>
+    <title>{{config('app.name', 'Ariel')}} | @yield('title')</title>
 
     {{-- ICON --}}
-    <link rel="shortcut icon" type="image/jpg" href="{{ asset('images/icon.png') }}"/>
+    <link rel="shortcut icon" type="image/jpg" href="{{ asset('images/icon2.png') }}"/>
 
     <!-- Font Awesome UI KIT-->
     <script src="https://kit.fontawesome.com/f75ab26951.js" crossorigin="anonymous"></script>

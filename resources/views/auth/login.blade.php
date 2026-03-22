@@ -15,7 +15,7 @@
                 <!-- Nested Row within Card Body -->
                 <div class="row">
                     <div class="col-lg-6 d-none d-lg-block">
-                        <img src="{!! asset('images/logo.jpg') !!}" alt="Logo" class="img-fluid">
+                        <img src="{!! asset('images/logo2.jpg') !!}" alt="Logo" class="img-fluid">
                     </div>
                     <div class="col-lg-6">
                         <div class="p-5">
