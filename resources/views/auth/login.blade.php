@@ -71,7 +71,7 @@
     </div>
     
     <div class="text-center mt-5">
-        <h6 class="text-white">Desarrollado Por : <a class="text-white" href="">Fernando</a></h6>
+        <h6 class="text-white">Desarrollado Por : <a class="text-white" href="">JUAN ARIEL CANO</a></h6>
     </div>
 
 </div>
